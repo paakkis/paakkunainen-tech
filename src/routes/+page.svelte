@@ -3,8 +3,8 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Juuso Paakkunainen</title>
+	<meta name="description" content="A data person" />
 </svelte:head>
 
 <section>
